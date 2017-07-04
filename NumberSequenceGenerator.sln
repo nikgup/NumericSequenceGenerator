@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberSequenceGenerator", "NumberSequenceGenerator\NumberSequenceGenerator.csproj", "{0A9217A9-5E00-4A2C-987F-3994EB33936E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberSequenceGeneratorTests", "NumberSequenceGeneratorTests\NumberSequenceGeneratorTests.csproj", "{2BFC90E4-A8BD-46B6-AF07-2BF2F4238B98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9217A9-5E00-4A2C-987F-3994EB33936E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9217A9-5E00-4A2C-987F-3994EB33936E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9217A9-5E00-4A2C-987F-3994EB33936E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9217A9-5E00-4A2C-987F-3994EB33936E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFC90E4-A8BD-46B6-AF07-2BF2F4238B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFC90E4-A8BD-46B6-AF07-2BF2F4238B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFC90E4-A8BD-46B6-AF07-2BF2F4238B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFC90E4-A8BD-46B6-AF07-2BF2F4238B98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
