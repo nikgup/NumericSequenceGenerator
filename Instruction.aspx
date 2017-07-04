@@ -38,6 +38,6 @@
 <script>
     function ContinuetootherPage()
     {
-        location.href = "http://localhost:63565/NumberSequenceGen.aspx";
+        location.href = "NumberSequenceGen.aspx";
     }
 </script>
